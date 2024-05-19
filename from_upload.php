@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Fitur Upload Foto dengan PHP & Mysql</title>
+	<title>Upload Gambar</title>
     <link rel="stylesheet" type="text/css" href="style/gaya.css">   
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/daisyui@2.13.6/dist/full.css">
 </head>
